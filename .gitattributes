@@ -1,0 +1,5 @@
+data/*.csv -text
+*.py text eol=lf
+*.md text eol=lf
+*.toml text eol=lf
+*.yml text eol=lf
