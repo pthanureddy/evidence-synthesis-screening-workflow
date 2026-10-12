@@ -110,5 +110,6 @@ licence and restrict access for private corpora. Only load joblib files generate
 in a trusted environment. Reviewer strings are not authenticated identities.
 
 Design and research boundaries: [methods](docs/methods.md).
+Executed checks and bounded benchmark results: [verification](docs/verification.md).
 AI assistance: implementation/test/docs drafting used Codex. Executed checks and
 published source establish bounded engineering behavior, not unassisted mastery.
